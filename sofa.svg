@@ -1,0 +1,5 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800px" height="800px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" stroke-width="0" stroke-linecap="round" stroke-linejoin="round">
+<path id="a" d="M20,14H4V8A4,4,0,0,1,8,4h8a4,4,0,0,1,4,4Zm0,5V16a1,1,0,0,0-2,0v3a1,1,0,0,0,2,0ZM6,19V16a1,1,0,0,0-2,0v3a1,1,0,0,0,2,0Z" style="fill: #2ca9bc;"/>
+<path id="b" d="M22,11v4a2,2,0,0,1-2,2H4a2,2,0,0,1-2-2V11A2,2,0,0,1,4.34,9,2.07,2.07,0,0,1,6,11.11V13H18V11.11A2.07,2.07,0,0,1,19.66,9,2,2,0,0,1,22,11Z" style="fill: #000000;"/>
+</svg>
